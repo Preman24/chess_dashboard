@@ -5,7 +5,7 @@ The Chess Dashboard Visualization project aims to create an interactive and dyna
 
 # Demo
 <div align="center">
-  <img src="tableau/abc.png.png" width="600px" alt="Chess Dashboard Preview">
+  <img src="tableau/chess_rapid.png" width="1000px" alt="Chess Dashboard Preview">
 </div>
 
 ## Objectives
