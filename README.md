@@ -36,7 +36,7 @@ The Chess Dashboard project aims to create an interactive and dynamic dashboard 
 8. **Visualization Design**: Create various visualizations in Tableau, such as player performance trends, game outcomes, and comparative analyses of different players.
 
 ## Features
-1. **Interactive features**: Line trend and game records based on the time of day: morning, afternoon, evening. Changes can be viewed based on match type: rapid, bullet, blitz.
+1. **Interactive features**: Line graph and game records that change based on the time of day—morning, afternoon, and evening represented by highlight table are filtered by match types: rapid, bullet, and blitz.
 2. **Player Information**: Detailed profiles for each player, including player name, joined date, and player league.
 3. **Accuracy winning/losing**: Summary of average player accuracy based on winning and losing games
 4. **Top 5 Opening/Closing moves**: Bar chart representation of the most frequently used opening and closing moves by players, providing insights into strategies and trends
