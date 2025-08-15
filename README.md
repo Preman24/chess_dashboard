@@ -1,9 +1,9 @@
-# Project Description: Chess Dashboard Visualization
+# Project Description: Chess Dashboard
 
 ## Overview
-The Chess Dashboard Visualization project aims to create an interactive and dynamic dashboard that visualizes chess game data retrieved from the Chess.com API. This project utilizes a robust architecture with Python for data retrieval and preprocessing, MongoDB atlas for efficient data storage, Tableau for advanced visualization, Docker for containerization, and Git for version control.
+The Chess Dashboard project aims to create an interactive and dynamic dashboard that visualizes chess game data retrieved from the Chess.com API. This project utilizes a robust architecture with Python for data retrieval and preprocessing, MongoDB atlas for efficient data storage, Tableau for advanced visualization, Docker for containerization, and Git for version control.
 
-## Dashbroad preview (rapid)
+## Dashboard preview (rapid)
 <div align="center">
   <img src="tableau/chess_rapid.png" width="1000px" alt="Chess Dashboard Preview">
 </div>
