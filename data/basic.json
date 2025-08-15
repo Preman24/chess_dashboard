@@ -1,0 +1,15 @@
+{
+    "player_id": 393376521,
+    "@id": "https://api.chess.com/pub/player/ajwkdo",
+    "url": "https://www.chess.com/member/ajwkdo",
+    "username": "ajwkdo",
+    "followers": 2,
+    "country": "https://api.chess.com/pub/country/US",
+    "last_online": 1755215429,
+    "joined": 1727966123,
+    "status": "basic",
+    "is_streamer": false,
+    "verified": false,
+    "league": "Legend",
+    "streaming_platforms": []
+}

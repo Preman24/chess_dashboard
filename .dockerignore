@@ -1,0 +1,6 @@
+__pycache__/
+tableau/
+data/
+cleaned_data/
+*.pyc
+README.md

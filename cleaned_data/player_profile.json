@@ -1,0 +1,38 @@
+[
+    {
+        "player_name": "ajwkdo",
+        "player_league": "Legend",
+        "player_joined": "2024-10-03",
+        "match_type": "rapid",
+        "current_rating": 548,
+        "record_win": 250,
+        "record_loss": 229,
+        "record_draw": 31,
+        "highest_rating_tactics_played": 963,
+        "lowest_rating_tactics_played": 400
+    },
+    {
+        "player_name": "ajwkdo",
+        "player_league": "Legend",
+        "player_joined": "2024-10-03",
+        "match_type": "bullet",
+        "current_rating": 452,
+        "record_win": 8,
+        "record_loss": 9,
+        "record_draw": 0,
+        "highest_rating_tactics_played": 963,
+        "lowest_rating_tactics_played": 400
+    },
+    {
+        "player_name": "ajwkdo",
+        "player_league": "Legend",
+        "player_joined": "2024-10-03",
+        "match_type": "blitz",
+        "current_rating": 320,
+        "record_win": 0,
+        "record_loss": 1,
+        "record_draw": 0,
+        "highest_rating_tactics_played": 963,
+        "lowest_rating_tactics_played": 400
+    }
+]

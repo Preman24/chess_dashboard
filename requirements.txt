@@ -1,0 +1,4 @@
+pymongo == 4.13.2
+httpx == 0.28.1
+argparse == 1.1
+retryhttp
